@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\app_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\app_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\winFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\winFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\symbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\symbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\myLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\myLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\symbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\symbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\winFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\winFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\myLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\myLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\app_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A55D3ACF-97C9-402B-A58B-F6FCC28A1F82}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\app_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "myLine.h",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\myLine.h",
+              "RelativeDocumentMoniker": "lab_1\\myLine.h",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\myLine.h",
+              "RelativeToolTip": "lab_1\\myLine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T19:55:55.076Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "winFunc.cpp",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\winFunc.cpp",
+              "RelativeDocumentMoniker": "lab_1\\winFunc.cpp",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\winFunc.cpp",
+              "RelativeToolTip": "lab_1\\winFunc.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T19:55:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "symbol.cpp",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\symbol.cpp",
+              "RelativeDocumentMoniker": "lab_1\\symbol.cpp",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\symbol.cpp",
+              "RelativeToolTip": "lab_1\\symbol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T19:55:55.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\main.cpp",
+              "RelativeDocumentMoniker": "lab_1\\main.cpp",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\main.cpp",
+              "RelativeToolTip": "lab_1\\main.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T19:55:55.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "colors.h",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\colors.h",
+              "RelativeDocumentMoniker": "lab_1\\colors.h",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\colors.h",
+              "RelativeToolTip": "lab_1\\colors.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T21:06:58.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "winFunc.h",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\winFunc.h",
+              "RelativeDocumentMoniker": "lab_1\\winFunc.h",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\winFunc.h",
+              "RelativeToolTip": "lab_1\\winFunc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T19:55:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "symbol.h",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\symbol.h",
+              "RelativeDocumentMoniker": "lab_1\\symbol.h",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\symbol.h",
+              "RelativeToolTip": "lab_1\\symbol.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T19:55:55.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myLine.cpp",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\myLine.cpp",
+              "RelativeDocumentMoniker": "lab_1\\myLine.cpp",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\myLine.cpp",
+              "RelativeToolTip": "lab_1\\myLine.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T19:55:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\app_manager.cpp",
+              "RelativeDocumentMoniker": "lab_1\\app_manager.cpp",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\app_manager.cpp",
+              "RelativeToolTip": "lab_1\\app_manager.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T19:55:55.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app_manager.h",
+              "DocumentMoniker": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\app_manager.h",
+              "RelativeDocumentMoniker": "lab_1\\app_manager.h",
+              "ToolTip": "C:\\Users\\Airakuu\\Desktop\\lab1\\lab_3\\lab_1\\app_manager.h",
+              "RelativeToolTip": "lab_1\\app_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T19:55:55.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
