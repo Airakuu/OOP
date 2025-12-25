@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# VS precompiled headers / cache
+*.ipch
+*.pch
+*.pdb
+*.obj
+*.ilk
+*.tlog
+*.log
+*.cache
+*.suo
+*.user
+
+# build folders
+bin/
+obj/
+Debug/
+Release/
+x64/
