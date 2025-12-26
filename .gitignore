@@ -20,3 +20,6 @@ obj/
 Debug/
 Release/
 x64/
+.vs/
+*.ipch
+*.pch
